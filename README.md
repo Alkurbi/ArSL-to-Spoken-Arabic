@@ -3,7 +3,7 @@
 <h2>Project Screenshots:</h2>
 
 <img src="https://imgur.com/a/dKMx5wn" alt="project-screenshot" width="400" height="400/">
-
+![Image](https://image.ibb.co/g0SdPw/Screenshot_from_2018_01_05_11_14_40.png)
   
   
 <h2>🧐 Features</h2>
