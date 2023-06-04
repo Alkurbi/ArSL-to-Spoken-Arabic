@@ -3,7 +3,7 @@
 <h2>Project Screenshots:</h2>
 
 
-<div align='center'> <img align='center' src="https://github.com/Alkurbi/ArSL-to-Spoken-Arabic/blob/main/gui.png" alt="project-screenshot" width="400" height="400/"> <div/>
+<img align='center' src="https://github.com/Alkurbi/ArSL-to-Spoken-Arabic/blob/main/gui.png" alt="project-screenshot" width="400" height="400/">
   
   
 <h2>🧐 Features</h2>
