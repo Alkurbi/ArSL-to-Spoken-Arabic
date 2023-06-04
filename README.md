@@ -1,5 +1,9 @@
 <h1 align="center" id="title">ArSL to Spoken Arabic</h1>
 
+<h2>Project Screenshots:</h2>
+
+<img src="https://photos.app.goo.gl/QKZjTC2Gh5M5ayx88" alt="project-screenshot" width="400" height="400/">
+
   
   
 <h2>🧐 Features</h2>
