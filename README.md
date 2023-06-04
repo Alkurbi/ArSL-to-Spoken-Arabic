@@ -2,7 +2,7 @@
 
 <h2>Project Screenshots:</h2>
 
-<img src="https://photos.app.goo.gl/QKZjTC2Gh5M5ayx88" alt="project-screenshot" width="400" height="400/">
+<img src="https://imgur.com/a/dKMx5wn" alt="project-screenshot" width="400" height="400/">
 
   
   
