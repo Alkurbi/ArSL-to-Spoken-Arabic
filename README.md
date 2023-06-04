@@ -2,7 +2,9 @@
 
 <h2>Project Screenshots:</h2>
 
-<img src="https://github.com/Alkurbi/ArSL-to-Spoken-Arabic/blob/main/gui.png" alt="project-screenshot" width="400" height="400/">
+<div align='center'>
+  <img src="https://github.com/Alkurbi/ArSL-to-Spoken-Arabic/blob/main/gui.png" alt="project-screenshot" width="400" height="400/">
+  <div/>
   
   
 <h2>🧐 Features</h2>
