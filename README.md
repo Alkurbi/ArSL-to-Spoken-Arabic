@@ -2,11 +2,11 @@
 
 <h2>Project Screenshots:</h2>
 
-Project GUI
+<p>Project GUI<p/>
 <img align='center' src="https://github.com/Alkurbi/ArSL-to-Spoken-Arabic/blob/main/gui.png" alt="project-screenshot" width="400" height="400/">
 <br/>
 
-Usage example
+<p>Usage example<p/>
 <img align='center' src="https://github.com/Alkurbi/ArSL-to-Spoken-Arabic/blob/main/example.gif" alt="project-screenshot" width="400" height="400/">
   
   
