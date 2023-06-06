@@ -28,7 +28,7 @@ git clone https://github.com/Alkurbi/ArSL-to-Spoken-Arabic.git
 <p>2. Install requirements</p>
 
 ```
-pip install requirements.txt
+pip install -r requirements.txt
 ```
 
   
